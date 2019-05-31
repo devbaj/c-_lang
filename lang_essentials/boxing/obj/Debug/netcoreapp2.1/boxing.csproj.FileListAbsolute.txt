@@ -1,0 +1,11 @@
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\bin\Debug\netcoreapp2.1\boxing.deps.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\bin\Debug\netcoreapp2.1\boxing.runtimeconfig.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\bin\Debug\netcoreapp2.1\boxing.runtimeconfig.dev.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\bin\Debug\netcoreapp2.1\boxing.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\bin\Debug\netcoreapp2.1\boxing.pdb
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.csprojAssemblyReference.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.csproj.CoreCompileInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.AssemblyInfoInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.AssemblyInfo.cs
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\boxing\obj\Debug\netcoreapp2.1\boxing.pdb
