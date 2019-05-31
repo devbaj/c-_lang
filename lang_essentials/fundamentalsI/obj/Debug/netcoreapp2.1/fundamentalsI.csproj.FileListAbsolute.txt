@@ -1,0 +1,11 @@
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\bin\Debug\netcoreapp2.1\fundamentalsI.deps.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\bin\Debug\netcoreapp2.1\fundamentalsI.runtimeconfig.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\bin\Debug\netcoreapp2.1\fundamentalsI.runtimeconfig.dev.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\bin\Debug\netcoreapp2.1\fundamentalsI.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\bin\Debug\netcoreapp2.1\fundamentalsI.pdb
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.csprojAssemblyReference.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.csproj.CoreCompileInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.AssemblyInfoInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.AssemblyInfo.cs
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\fundamentalsI\obj\Debug\netcoreapp2.1\fundamentalsI.pdb
