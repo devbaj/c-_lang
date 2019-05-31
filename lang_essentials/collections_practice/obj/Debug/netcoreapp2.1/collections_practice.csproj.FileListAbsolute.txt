@@ -1,0 +1,11 @@
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\bin\Debug\netcoreapp2.1\collections_practice.deps.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\bin\Debug\netcoreapp2.1\collections_practice.runtimeconfig.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\bin\Debug\netcoreapp2.1\collections_practice.runtimeconfig.dev.json
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\bin\Debug\netcoreapp2.1\collections_practice.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\bin\Debug\netcoreapp2.1\collections_practice.pdb
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.csprojAssemblyReference.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.csproj.CoreCompileInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.AssemblyInfoInputs.cache
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.AssemblyInfo.cs
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.dll
+C:\Users\bjory\Documents\CODING_DOJO\05_C#\language\lang_essentials\collections_practice\obj\Debug\netcoreapp2.1\collections_practice.pdb
