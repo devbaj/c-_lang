@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\oop\\human\\human.csproj",
+      "projectUniqueName": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\oop\\human\\human.csproj",
       "projectName": "human",
-      "projectPath": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\oop\\human\\human.csproj",
+      "projectPath": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\oop\\human\\human.csproj",
       "packagesPath": "C:\\Users\\bjory\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\oop\\human\\obj\\",
+      "outputPath": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\oop\\human\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
