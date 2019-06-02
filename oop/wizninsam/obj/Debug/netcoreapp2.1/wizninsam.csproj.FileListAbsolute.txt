@@ -1,0 +1,11 @@
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\bin\Debug\netcoreapp2.1\wizninsam.deps.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\bin\Debug\netcoreapp2.1\wizninsam.runtimeconfig.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\bin\Debug\netcoreapp2.1\wizninsam.runtimeconfig.dev.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\bin\Debug\netcoreapp2.1\wizninsam.dll
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\bin\Debug\netcoreapp2.1\wizninsam.pdb
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.csprojAssemblyReference.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.csproj.CoreCompileInputs.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.AssemblyInfoInputs.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.AssemblyInfo.cs
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.dll
+C:\Users\bjory\DOJO\05_C#\lang\oop\wizninsam\obj\Debug\netcoreapp2.1\wizninsam.pdb
