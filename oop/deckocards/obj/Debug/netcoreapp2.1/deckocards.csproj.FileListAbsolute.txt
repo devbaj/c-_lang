@@ -1,0 +1,11 @@
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\bin\Debug\netcoreapp2.1\deckocards.deps.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\bin\Debug\netcoreapp2.1\deckocards.runtimeconfig.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\bin\Debug\netcoreapp2.1\deckocards.runtimeconfig.dev.json
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\bin\Debug\netcoreapp2.1\deckocards.dll
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\bin\Debug\netcoreapp2.1\deckocards.pdb
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.csprojAssemblyReference.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.csproj.CoreCompileInputs.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.AssemblyInfoInputs.cache
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.AssemblyInfo.cs
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.dll
+C:\Users\bjory\DOJO\05_C#\lang\oop\deckocards\obj\Debug\netcoreapp2.1\deckocards.pdb
