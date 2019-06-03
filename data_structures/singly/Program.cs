@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace singlyLinkedLists
+namespace singly
 {
     class Program
     {

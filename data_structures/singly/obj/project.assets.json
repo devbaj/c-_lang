@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\data_structures\\singlyLinkedLists\\singlyLinkedLists.csproj",
-      "projectName": "singlyLinkedLists",
-      "projectPath": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\data_structures\\singlyLinkedLists\\singlyLinkedLists.csproj",
+      "projectUniqueName": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\data_structures\\singly\\singly.csproj",
+      "projectName": "singly",
+      "projectPath": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\data_structures\\singly\\singly.csproj",
       "packagesPath": "C:\\Users\\bjory\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjory\\Documents\\CODING_DOJO\\05_C#\\language\\data_structures\\singlyLinkedLists\\obj\\",
+      "outputPath": "C:\\Users\\bjory\\DOJO\\05_C#\\lang\\data_structures\\singly\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
